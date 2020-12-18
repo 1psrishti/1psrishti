@@ -2,6 +2,8 @@
 </h1>
 <h3  align="center">Hello, World!</h3>
 
+<br>
+
 - :smile: Pronouns : she/her/hers
 - :sparkles: Fresher at SRM Ktr
 - :e-mail: Email : **1psrishti@gmail.com** 
@@ -41,7 +43,7 @@
 <img src="https://img.icons8.com/plasticine/2x/android-os.png"  alt="android"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png"  alt="android"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/color/2x/blender-3d.png"  alt="android"  width="40"  height="40"/>    
-<img  src="https://img.icons8.com/ios/2x/django.png"  alt="xd"  width="40"  height="40"/> 
+<img  src="https://img.icons8.com/color/2x/fa314a/django.png"  alt="xd"  width="40"  height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="android"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/dusk/2x/dribbble.png"  alt="android"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/color/2x/adobe-xd.png"  alt="android"  width="40"  height="40"/>    
@@ -59,6 +61,7 @@
 <img src="https://img.icons8.com/color/2x/stackoverflow.png"  alt="android"  width="40"  height="40"/>    
 
 
+<br>
 <br>
 
 ![Srishti's github stats](https://github-readme-stats.vercel.app/api?username=1psrishti&show_icons=true&theme=dracula)
