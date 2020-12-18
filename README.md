@@ -9,8 +9,6 @@
 - :e-mail: Email : **1psrishti@gmail.com** 
 - :books: Currently exploring everything tbh
 
-<br>
-
 ### Connect with me:
 
 <p  align="left">
@@ -33,8 +31,6 @@
 <img  align="center"  src="https://img.icons8.com/color/2x/codepen.png"  height="40"  width="40"  /></a>
 
 </p>
-
-<br>
 
 ### Languages and tools that I'm kinda familiar with:
 
