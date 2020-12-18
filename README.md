@@ -1,6 +1,6 @@
 <h1 align="center">Srishti <img src="https://img.icons8.com/color/2x/instagram-verification-badge.png" height="30" width="30">
 </h1>
-<h3  align="center">Hello, World!</h3>
+### Hello, World!
 
 <br>
 
@@ -8,6 +8,8 @@
 - :sparkles: Fresher at SRM Ktr
 - :e-mail: Email : **1psrishti@gmail.com** 
 - :books: Currently exploring everything tbh
+
+<br>
 
 ### Connect with me:
 
@@ -31,6 +33,8 @@
 <img  align="center"  src="https://img.icons8.com/color/2x/codepen.png"  height="40"  width="40"  /></a>
 
 </p>
+
+<br>
 
 ### Languages and tools that I'm kinda familiar with:
 
