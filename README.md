@@ -24,12 +24,7 @@
 <img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png"  alt="srishtirawat2002"  height="40"  width="40"  /></a>
 <a href="mailto:1psrishti@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
-<a  href="https://dribbble.com/1psrishti"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/dribbble-old-logo.png"  height="40"  width="40"  /></a>
-<a  href="https://www.behance.net/srishtirawat1"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/behance--v1.png"  height="40"  width="40"  /></a>
-<a  href="https://codepen.io/1psrishti"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/color/2x/codepen.png"  height="40"  width="40"  /></a>
+
 
 </p>
 
