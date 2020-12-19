@@ -1,4 +1,4 @@
-<h1 align="center">Srishti <img src="https://img.icons8.com/color/2x/instagram-verification-badge.png" height="30" width="30">
+<h1 align="center">Srishti <img src="https://img.icons8.com/color/2x/instagram-verification-badge.png" height="28" width="28">
 </h1>
 
 <br>
