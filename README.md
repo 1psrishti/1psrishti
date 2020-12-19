@@ -66,6 +66,5 @@
 <br>
 <br>
 
-![Srishti's github stats](https://github-readme-stats.vercel.app/api?username=1psrishti&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1psrishti&show_icons=true&theme=dracula&layout=compact)
