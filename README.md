@@ -52,7 +52,7 @@
 <img src="https://img.icons8.com/color/2x/css3.png"  alt="CSS"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/color/2x/javascript-logo-1.png"  alt="JavaScript"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"  alt="Java"  width="40"  height="40"/>      
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"  alt="MySQL"  width="40"  height="40"/>    
+<img src="https://icons8.com/icons/set/mysql--red"  alt="MySQL"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/fluent/2x/unity.png"  alt="Unity 3D"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/color/2x/stackoverflow.png"  alt="Stack Overflow"  width="40"  height="40"/>    
 
