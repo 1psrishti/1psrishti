@@ -8,7 +8,7 @@
 <br>
 
 - :smile: Pronouns : she/her/hers
-- :sparkles: Fresher at SRM Ktr
+- :sparkles: Sophomore at SRM Ktr
 - :e-mail: Email : <a href="mailto:1psrishti@gmail.com" target="blank">**1psrishti@gmail.com**</a>
 - :books: Currently exploring everything tbh
 
