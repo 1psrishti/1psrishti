@@ -8,7 +8,7 @@
 <br>
 
 - :smile: Pronouns : she/her/hers
-- :sparkles: Sophomore at SRM Institute of Science and Technology Ktr
+- :sparkles: Student at SRM Institute of Science and Technology Ktr
 - :e-mail: Email : <a href="mailto:1psrishti@gmail.com" target="blank">**1psrishti@gmail.com**</a>
 - :books: Currently exploring everything tbh
 
