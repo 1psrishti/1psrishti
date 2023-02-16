@@ -44,7 +44,7 @@
 <img src="https://img.icons8.com/color/2x/firebase.png"  alt="Firebase"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/fluent/2x/github.png"  alt="GitHub"  width="40"  height="40"/>
-<img src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Android_Studio_2019.png/revision/latest/scale-to-width-down/340?cb=20200605162922" alt="Android Studio" width="40"  height="40"/>
+<img src="https://img.icons8.com/color/48/null/android-studio--v2.png" alt="Android Studio" width="40"  height="40"/>
 <img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png"  alt="VSCode"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/adobe-xd.png"  alt="Adobe XD"  width="40"  height="40"/>  
 <img src="https://img.icons8.com/color/2x/autodesk-autocad.png"  alt="AutoCAD"  width="40"  height="40"/>    
