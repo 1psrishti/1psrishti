@@ -18,7 +18,7 @@
 
 <p  align="left">
 
-<a  href="https://linkedin.com/in/srishtirawat2002"  target="_blank">
+<a  href="https://www.linkedin.com/in/1psrishti/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png"  alt="srishtirawat2002"  height="40"  width="40"  /></a>
 <a  href="https://www.instagram.com/_srishtayyy_"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png"  alt="srishtirawat2002"  height="40"  width="40"  /></a>
